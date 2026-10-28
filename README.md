@@ -118,9 +118,10 @@ Actual accuracy and other evaluation metrics should be reported only after verif
 
 ## Author
 
-**Amey Ravindra Bonde**
+**Amey Bonde**
 
-[GitHub Profile](https://github.com/ameybonde)
+- GitHub: [@ameybonde](https://github.com/ameybonde)
+- LinkedIn: [Amey Bonde](https://www.linkedin.com/in/amey-bonde-72a8b23b2/)
 
 ## Dataset Attribution and License
 
