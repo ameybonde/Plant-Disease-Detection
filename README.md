@@ -73,6 +73,26 @@ Plant-Disease-Detection/
 - `pdd_research_paper.pdf` — Project research paper.
 - `Plant_Disease_Detection_SlideDeck.pptx` — Project presentation.
 
+## Screenshots
+
+### 1. CNN Model Architecture
+
+The architecture diagram illustrates the image classification pipeline, from input preprocessing and convolutional feature extraction to dense layers and the final Softmax classification output.
+
+![Plant Disease Detection CNN Architecture](Screenshots/cnn.png)
+
+### 2. Plant Disease Prediction — Healthy Leaf
+
+The application predicts a healthy potato leaf and displays the model's confidence score.
+
+![Plant Disease Detection - Potato Healthy Prediction](Screenshots/potato-healthy.png)
+
+### 3. Plant Disease Prediction — Diseased Leaf
+
+The application identifies Tomato Yellow Leaf Curl Virus from the uploaded leaf image and displays the prediction confidence.
+
+![Plant Disease Detection - Tomato Yellow Leaf Curl Virus](Screenshots/tomato-diseased.png)
+
 
 ## Training and Evaluation
 
