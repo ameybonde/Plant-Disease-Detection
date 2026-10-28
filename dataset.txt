@@ -1,0 +1,3 @@
+Dataset Name: PlantVillage Dataset
+Source: Kaggle
+Dataset URL: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
